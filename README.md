@@ -27,6 +27,7 @@ ssl_key =  </etc/dovecot/private/ssl-cert-and-key.pem
 ## crontab 
 
 crontab -e
+
 50	3	1	*	*	/opt/cert/cronjob.sh > /root/temp/letsencrypt.txt
 
 

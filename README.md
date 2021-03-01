@@ -1,4 +1,15 @@
 
+# REPO ARCHIVED (2021-03-01)
+
+this repo is archived and not maintained longer since `certbot-auto` 
+is deprecated and not supported anymore by EFF.
+
+Please visit https://certbot.eff.org/ to check for other alternatives.
+
+
+---
+
+
 # read the full article
 
 https://another-software-development-blog.blogspot.com/2017/01/lets-encrypt-certbot-auto.html
